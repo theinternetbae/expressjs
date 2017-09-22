@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "membuat crud dengan express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theinternetbae/expressjs.git"
+  },
+  "author": "Farhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theinternetbae/expressjs/issues"
+  },
+  "homepage": "https://github.com/theinternetbae/expressjs#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
